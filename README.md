@@ -1,2 +1,3 @@
 # atulpersonalrapo
-this is my first repositorty
+this is my first repositorty.
+author -atul pandey
